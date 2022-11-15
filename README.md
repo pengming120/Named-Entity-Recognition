@@ -1,4 +1,4 @@
-# Named-Entity-Recognition-
+# Named-Entity-Recognition
 
 Named entities are phrases that contain the names of persons, organizations, geo-locations, companies, facilities etc.
 
